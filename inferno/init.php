@@ -7,4 +7,4 @@
  * @package EDK
  */
 
-$themeInfo = array("name" => "Inferno", "info"=>"Based on the Inferno SMF Theme by DzinerStudio");
+$themeInfo = array("name" => "Inferno", "info"=>"Based on the Inferno SMF Theme by DzinerStudio. Maintained by Salvoxia.");
