@@ -7,7 +7,7 @@ SMF2 Theme
 http://www.dzinerstudio.com/index.php?topic=5096.0
 
 ##Installation
-Upload the LeetPressEDK folder to your killboard/themes folder. Select the theme in ACP -> Global Options.
+Upload the inferno folder to your killboard/themes folder. Select the theme in ACP -> Global Options.
 
 ###Logo
 Your Banner MUST BE 110px HEIGHT to fit into the killboard theme, otherwise it looks complete shit.
