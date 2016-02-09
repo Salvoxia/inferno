@@ -16,7 +16,7 @@ Place your logo/banner into the killboard/banners/ folder
 
 ##Changelog after initial release
 
-#####2016/xx/xx
+#####2016/02/09
 
 * IDFeed: Added option to ignore NPC only kills
 * ACP Upgrade page: Removed obsolete elements for database upgrade
