@@ -16,6 +16,10 @@ Place your logo/banner into the killboard/banners/ folder
 
 ##Changelog after initial release
 
+#####2016/07/02
+
+* Added support for displaying daily stats summaries on the front page
+
 #####2016/02/09
 
 * IDFeed: Added option to ignore NPC only kills
