@@ -1985,3 +1985,12 @@ input, button, select, textarea {
 	border: 1px solid #7F9DB9;
 	padding: 2px;
 }
+
+.ssobutton
+{
+    background : url("https://web.ccpgamescdn.com/eveonlineassets/developers/eve-sso-login-black-small.png") no-repeat center center;
+    border : none;
+    width: 195px;
+    height: 30px;
+    color : transparent;
+}
