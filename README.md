@@ -16,6 +16,10 @@ Place your logo/banner into the killboard/banners/ folder
 
 ##Changelog after initial release
 
+#####2018/05/05
+
+* Updated for compatibility with EDK 4.4
+
 #####2017/03/17
 
 * Fix: Kill Lists show kill system security status in the proper color
